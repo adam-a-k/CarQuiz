@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carMakes">
+        <item>Select Car Make</item>
+        <item>Aston Martin</item>
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Bugatti</item>
+        <item>Citroen</item>
+        <item>Ferrari</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Lamborghini</item>
+        <item>Mazda</item>
+        <item>Mercedes</item>
+        <item>Nissan</item>
+        <item>Porsche</item>
+        <item>Reliant</item>
+        <item>Suzuki</item>
+        <item>Vauxhall</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+    </string-array>
+</resources>
